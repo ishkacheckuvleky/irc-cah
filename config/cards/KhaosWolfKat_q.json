@@ -1,0 +1,534 @@
+[
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "I used to be an adventurer like you, then I took a/an %s in the %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "You've got to check out %s Fluxx!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "For the love of GOD, and all that is HOLY, %s!!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "The new Operating System will be called %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Yes, Mr. Death... I'll play you a game! But not chess! My game is %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "I cannot preach hate and warfare when I am a disciple of %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Call of Duty Modern Warfare 37: War of %s!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "In brightest day, in blackest night, no %s shall escape my sight."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "My next video turorial covers %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "We found a map Charlie! A map to %s Mountain!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Honey badger don't give a %s!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Good. Bad. I'm the guy with the %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Hail to the %s, baby."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Shop smart. Shop %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Alright you Primitive Screwheads, listen up! You see this? This... is my %s!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Every sperm is %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "I see you have the machine that goes %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "I seek The Holy %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "How will we stop an army of the dead at our castle walls?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "Faster than a speeding %s! More powerful than a %s!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Fighting a never-ending battle for truth, justice, and the American %s!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Don't make me %s. You wouldn't like me when I'm %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "With great power comes great %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "I'm loyal to nothing, General - except the %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Patriotism doesn't automatically equal %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "Disguised as %s, mild-mannered %s. "
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Able to leap %s in a single bound! "
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "These aren't the %s you're looking for."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "We're gonna need a bigger %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Beavis and Butthead Do %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "I, for one, welcome our new %s overlords."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "You know, there's a million fine looking women in the world, dude. But they don't all bring you %s at work. Most of 'em just %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Teenage Mutant Ninja %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Achy Breaky %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "I'm not a %s, but I play one on TV"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "An African or European %s?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Well you can't expect to wield supreme executive power just 'cause some watery tart threw a %s at you!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "\"%s!\" \"It's only a model.\""
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Good night. Sleep well. I'll most likely %s you in the morning."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "I am The Dread Pirate %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "Do you want me to send you back to where you were, %s in %s?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "I see %s people"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "%s? We don't need no stinking %s!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "I am not fat! I'm just %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Oh my god! They killed %s!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "The anxiously awaited new season of Firefly is rumoured to kick off with an action packed scene, featuring River Tam's amazing feats of %s!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Two by two, hands of %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Wendy's %s & Juicy."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "I swear by my pretty floral  %s, I will %s you."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "At %s, where every day is %s day!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "I HATE it when %s(s) crawl(s) up my %s!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "%s. Like a boss!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 3,
+    "value": "%s's latest music video features a dozen %s on %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "%s. It's not just for breakfast anymore."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 2,
+    "pick": 3,
+    "value": "In Soviet %s, %s %ss you."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "%s. Part of this nutritious breakfast."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "%s. It's what's for dinner!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Where's the beef?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "%s. Breakfast of champions!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "I %s, therefore I %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Welcome to my secret lair. I call it The Fortress of %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "My safeword is %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "I like %s, but %s is a hard limit!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Team %s!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "We went to a workshop on tantric %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Thou shalt not%s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "I am the King of %s!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "The only good %s is a dead %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "A vote for %s is a vote for %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "%s is the new %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Bitches LOVE %s!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "This year's %s guest of honour is %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "This will be the greatest %scon ever!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "%s at last! %s at last! Thank God almighty, I'm %s at last! "
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "I have a dream that one day this nation will rise up and live out the true meaning of its creed:"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "These are my minions of %s!"
+  }
+]

@@ -1,0 +1,856 @@
+[
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Real men watch %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "So wait, %s was actually %s? Wow, I didn't see that one coming!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Whenever I'm splashed with cold water, I turn into %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "When it comes to hentai, nothing gets me hotter than %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Lupin the III's latest caper involves him trying to steal %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "%s. YOU SHOULD BE WATCHING."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "%s vs. %s. BEST. FIGHT. EVER."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "Fresh from Japan: The new smash hit single by %s titled %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Congratulations, %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Hayao Miyazaki's latest family film is about a young boy befriending %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "One thing you almost never see in anime is %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "By far the best panel at any anime convention is the one for %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "S-Shut up!! I-It's not like I'm %s or anything."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "No matter how you look at it, ultimately %s is responsible for %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "What is mo&eacute;?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "The English dub of %s sucks worse than %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "%s. BELIEVE IT!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Make a contract with me, and become %s!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "You guys are so wrong. Obviously, %s is best waifu."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "In the latest chapter of Toriko, our hero hunts down, kills, and eats a creature made entirely of %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Vegeta, what does the scouter say?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "On the next episode of Dragon Ball Z, %s is forced to do the fusion dance with %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "You are already %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Who the hell do you think I am?!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "On the next episode of Dragon Ball Z, Goku has a fierce battle with %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "THIS %s HAS BEEN PASSED DOWN THE ARMSTRONG FAMILY LINE FOR GENERATIONS!!!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "My favorite episode of %s is the one with %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "Make a yaoi shipping."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "This doujinshi I just bought has %s and %s getting it on, hardcore."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "This is our final battle. Mark my words, I will defeat you, %s!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "After a long, arduous battle, %s finally met their end by %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "The best English dub I've ever heard is the one for %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "You used %s. It's super effective!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "%s. HE DEDD."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "I know of opinions and all that, but I just don't understand how anyone could actually enjoy %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "You see, I'm simply %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "She'll thaw out if you try %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Truly and without question, %s is the manliest of all men."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Yoko Kanno's latest musical score features a song sung entirely by %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "This year, I totally lucked out and found %s in the dealer's room."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "WANTED: $50,000,000,000 reward for the apprehension of%s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "If I was a magical girl, my cute mascot sidekick would be %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "How did I avoid your attack? Simple. By %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "In the future of 199X, the barrier between our world and the demon world is broken, and thousands of monsters invade our realm to feed upon %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "From the creators of Tiger &amp; Bunny: %s &amp; %s!!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "In truth, the EVA units are actually powered by the souls of %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 2,
+    "pick": 3,
+    "value": "Dreaming! Don't give it up %s! Dreaming! Don't give it up %s! Dreaming! Don't give it up %s!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Yo-Ho-Ho! He took a bite of %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "The new Gurren Lagann blurays from Aniplex will literally cost you %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "The most overused anime cliche is %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "The inspiration behind the latest hit show is %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "While writing Dragon Ball, Akira Toriyama would occasionally take a break from working to enjoy %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "The show was great, until %s showed up."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Nothing ruins a good anime faster than %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "People die when they are %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "I want to be the very best, like no one ever was! %s is my real test, %s is my cause!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Okay, I'll admit it. I would totally go gay for %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "Who are you callin' %s so short he can't see over his own %s?!?!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "If you ask me, there need to be more shows about %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "%s. That is the kind of man I was."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "I'm sorry! I'm sorry! I didn't mean to accidentally walk in on you while you were %s!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 2,
+    "pick": 3,
+    "value": "In the latest episode of Case Closed, Conan deduces that it was %s who killed %s because of %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Welcome home, Master! Is there anything your servant girl can bring you today?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "In the latest chapter of Golgo 13, he kills his target with %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "%s. Goddammit, Japan."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Digimon! Digivolve to: %s-mon!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Karaoke night! I'm totally gonna sing my favorite song, %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Take this! My love, my anger, and all of my %s!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "I have never in my life laughed harder than the first time I watched %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "%s. Only on Toonami"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 2,
+    "pick": 3,
+    "value": "From the twisted mind of Nabeshin: An anime about %s, %s, and %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Behold the name of my Zanpakuto, %s!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Now! Face my ultimate attack!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Sasuke has %s implants."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "To save the world, you must collect all 7 %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "The new manga from %s is about a highschool girl discovering %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "I am in despair! %s has left me in despair!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Mamoru Oshii's latest film is a slow-paced, two hour-long cerebral piece about the horrors of %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "What do I love most about anime?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "The rarest Pok&eacute;mon in my collection is %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "What do I hate most about anime?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "There are guilty pleasures. And then there's %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Watch it! Or I'll take your %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "This morning, hundreds of Japanese otaku lined up outside their favorite store to buy the limited collector's edition of %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Every now and then, I like to participate in the time-honored Japanese tradition of %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Chicks. Dig. %s. <i>Nice.</i>"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "When it comes to Japanese cuisine, there's simply nothing better than %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "New from Studio GAINAX: %s the Animation."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Using my power of Geass, I command you to do... THIS!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 2,
+    "pick": 3,
+    "value": "Just announced: The brand new anime adaptation of %s, starring %s as the voice of %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Don't worry, he's okay! He survived thanks to %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "The next big Tokusatsu show: \"Super Sentai %s Ranger!\""
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "In the name of the moon, I will punish %s!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 2,
+    "pick": 3,
+    "value": "Make a love triangle."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Dr. Black Jack, please hurry! The patient is suffering from a terminal case of %s!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "I'M-A FIRIN' MAH %s!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "So just who is this Henry Goto fellow, anyway?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "When Henry Goto is alone and thinks that no one's looking, he secretly enjoys %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "He might just save the universe, if he only had some %s!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "This %s of mine glows with an awesome power! Its %s tells me to defeat you!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Cards Against Anime: It's more fun than %s!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "On the mean streets of Tokyo, everyone knows that %s is the leader of the %s%s Gang."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "When I found all 7 Dragon Balls, Shenron granted me my wish for %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "The best part of my %s costume is %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "My %s is the %s that will pierce the heavens!!  <i>*same white card used for both blanks*</i>"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "After years of searching, the crew of the Thousand Sunny finally found out that the One Piece is actually %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "The World Line was changed when I sent a D-mail to myself about %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 2,
+    "pick": 3,
+    "value": "In this episode of Master Keaton, Keaton builds %s out of %s and %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "So, what have you learned from all of this?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Someday when I have kids, I want to share with them the joys of %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Who placed first in the most recent Shonen Jump popularity poll?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Of my entire collection, my most prized possession is %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "No matter how many times I see it, %s always brings a tear to my eye."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Coming to Neon Alley: %s, completely UNCUT &amp; UNCENSORED."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "This year, I'm totally gonna cosplay as %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Mom, I swear! Despite its name, %s is NOT a porno!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "The government of Japan recently passed a law that effectively forbids all forms of %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "My favorite hentai is the one where %s is held down and violated by %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Cooking is so fun! Cooking is so fun! Now it's time to take a break and see what we have done! %s. YAY! IT'S READY!!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "The most annoying kind of anime fans are %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "%s. So kawaii!! &lt;3 &lt;3"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "Animation studio %s is perhaps best known for %s."
+  }
+]

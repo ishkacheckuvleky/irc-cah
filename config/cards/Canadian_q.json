@@ -1,0 +1,37 @@
+[
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Air Canada guidelines now prohibit %s on airplanes."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "O Canada, we stand on guard for %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "CTV presents %s, the story of %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "In an attempt to reach a wider audience, the Royal Ontario Museum has opened an interactive exhibit on %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "What's the Canadian government using to inspire rural students to succeed?"
+  }
+]

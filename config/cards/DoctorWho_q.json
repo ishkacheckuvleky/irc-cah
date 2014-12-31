@@ -1,0 +1,184 @@
+[
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "FUN FACT: The Daleks were originally shaped to look like %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "At this new Doctor Who themed restaurant, you can get a free %s if you can eat a plate of bangers and mash in under 3 minutes."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "There's a new dance on Gallifrey. It's called the %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "They announced a new LEGO Doctor Who game! Rumor has it that %s is an unlockable character."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "I think the BBC is losing it. They just released a Doctor Who themed %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "It's a little known fact that if you send a %s to the BBC, they will send you a picture of The Doctor."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "According to the Daleks, %s is better at %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Who is going to be The Doctor's next companion?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Originally, the 50th special was going to have %s appear, but the BBC decided against it in the end."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "In all of space and time you decide that %s is a good choice?!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "After we watch an episode, I've got some %s-flavored Jelly Babies to hand out."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Adipose were thought to be made of fat, but are really made of %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Who should be the 13th Doctor?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "I was ok with all the BAD WOLF graffiti, until someone wrote it on %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "The Chameleon circuit is working again...somewhat. Instead of a phone booth, the TARDIS is now a %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Jack Harkness, I can't leave you alone for a minute! I turn around and you're trying to seduce %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Bowties are %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Old and busted: EXTERMINATE! New hotness: %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "I hear the next thing that will cause The Doctor to regenerate is %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Wibbly-wobbly, timey-wimey %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "What's going to be The Doctor's new catchphrase?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "They found some more last episodes! They were found in %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "The next Doctor Who spin-off is going to be called %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "I'd give up %s to travel with The Doctor."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "%s was sent to save %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "The Doctor did it! He saved the world again! This time using a %s."
+  }
+]

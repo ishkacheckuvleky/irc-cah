@@ -23,5 +23,17 @@
         "channels":             ["#cah"],
         "floodProtection":      true,
         "floodProtectionDelay": 1000
-    }
+    },
+    "cardFiles": [
+      "2012HolidayPack",
+      "2013HolidayBullshit",
+      "AdminsPicks",
+      "BoxExpansion",
+      "MisprintReplacementBonusCards",
+      "ThirdVersion",
+      "TheFirstExpansion",
+      "TheSecondExpansion",
+      "TheThirdExpansion",
+      "TheFourthExpansion"
+    ]
 }

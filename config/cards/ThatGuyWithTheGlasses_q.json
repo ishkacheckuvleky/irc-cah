@@ -1,0 +1,1458 @@
+[
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "OH MY GOD THIS IS THE GREATEST %s I'VE EVER SEEN IN MY LIFE!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Of Course! Don't you know anything about %s?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "No one wants to see your %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Next January, the Nostalgia Critic is doing %s Month."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "JW confirms, you can play %s,"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "It was all going well until they found %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "In his latest review, Phelous was killed by %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "In her newest review, Diamanda Hagan finds herself in the body of %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "I'm looking forward to Jesuotaku's playthrough of Fire Emblem: %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "I watch movies just to see if I can find a Big Lipped %s Moment."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "I prefer for MY exploitation films to have %s, thank you very much."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "I AM THE VOICELESS. THE NEVER SHOULD. I AM %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "I %s so you don't have to."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "What broke Nash this week?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "High and away on a wing and a prayer, who could it be? Believe it or not, it's just %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Enemies of Diamanda Hagan have been known to receive strange packages filled with  %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "This weekend, the nation of Haganistan will once again commence its annual celebration of %s.  "
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "To troll the RDA chat this time, Todd requested a song by %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "The website was almost called \"thatguywith%s.com\"."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "They even took %s! Who does that?!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "The only thing Linkara would sell his soul for is %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "What is the real reason Demo Reel failed?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "The next Renegade Cut is about %s in a beloved children's movie."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "The Nostalgia Critic will NEVER review %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "The newest reviewer addition to the site specializes in %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "The next person to leave Channel Awesome will announce their departure via %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "STOP OR I WILL %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "The invasion of Molassia was tragically thwarted by %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Sage has presented JO with the new ecchi series %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Sean got his head stuck in %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "On the other side of the Plot Hole, the Nostalgia Critic found %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Reactions were mixed when %s joined TGWTG."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "%s is the reason Linkara doesn't like to swear."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "%s will live!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "%s was completely avoidable!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "At least he didn't fuck %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Blip checks are way smaller in January so I'll spend the month riffing on %s to gain more views."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Brad Tries %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Doug still regrets the day he decided to do a Let's Play video for \"Bart Simpson's %s Adventure\"."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "%s is the theme of this year's anniversary crossover."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "A %s Credit Card!?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "A piece of %s is missing."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "What do Brad and Floyd like to do after a long day?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "%s! You know, for kids."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "I love %s. It's so bad."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Hello, I'm the Nostalgia Critic. I remember %s so you don't have to!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "%s. With onions."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "%s is something else Diamanda Hagan has to live with every day."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "%s should be on TGWTG."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "%s was the first thing to go when Hagan took over the world."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "%s! What are you doing here?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "I write slash fanfiction pairing %s with %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "I asked Linkara to retweet %s, but instead, he retweeted %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "If I wanted to see %s, I'll stick with %s, thank you very much."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "If a dog and a dolphin can get along, why not %s and %s?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "Todd in the Shadows broke the Not a Rhyme button when the singer tried to rhyme %s with %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "Tara taught me that if you're going to engage in %s, then %s isn't a good idea."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "Next time on Obscurus Lupa Presents: \" %s IV: The Return of %s\"."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "Last time I took bath salts, I ended up %s in %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "The real reason MAGFest was ruined was %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "To top One More Day, future comic writers will use %s to break up a relationship."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "What delayed the next History of Power Rangers?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "What is as low as the standards of the 90's Kid?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "For the next Anniversary event, the TGWTG producers must battle %s to get %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "Hello, and welcome to Atop %s, where %s burns."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "The secret of Linkara's magic gun is %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "The reason Linkara doesn't like milk in his cereal is %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "Rock and Roll is nothing but %s and the rage of %s!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 2,
+    "pick": 3,
+    "value": "If you are able to deflect %s with %s, we refer to it as \"Frying %s\"."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "Welshy is to %s as Sad Panda is to %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "Linkara's next story arc will involve him defeating %s with the power of  %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "What else does Diamanda Hagan have to live with every day?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "What doesn't work that way?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "What the fuck is wrong with you?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "What is in Sci Fi Guy's vest?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "What's holding up the site redesign?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "What will Tara name her next hippo?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "What's the real reason nobody has ever played the TGWTG Panel Drinking Game?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "What's really inside the Plot Hole?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Turns out, that wasn't tea in MikeJ's cup, it was %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Todd knew he didn't have a chance after trying to seduce Lupa with %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "WE WERE FIGHTING LIKE %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Viewers were shocked when Paw declared %s the best song of the movie."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "What does Nash like to sing about?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Well, I've read enough fanfic about %s and Lupa to last a lifetime."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "What doesn't go there?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "What does Todd look like under his mask?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Linkara now prefers to say %s in lieu of \"fuck\"."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Of course!  Don't you know anything about ___?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Snowflame feels no %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Snowflame found a new love besides cocaine. What is it?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "So let's dig into %s #1."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "You may be a robot, but I AM %s!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Where'd he purchase that?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "When is the next History of Power Rangers coming out?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "What's up next on WTFIWWY?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "When the JesuOtaku stream got to the \"awful part of the night,\" the GreatSG video featured %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Why can't Film Brain stop extending his final vowels?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Why was Radio Dead Air shut down this time?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "90's Kid's favorite comic is %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Because poor literacy is %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "He is a glitch. He is missing. He is %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "In a surprise twist, the villain of Linkara's next story arc turned out to be %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Being fed up with reviewing lamps, what obscure topic did Linkara review next?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "What did the commenters bitch about next to Doug?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "The newest fanfic trend is turning %s into %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "The RDA chat knew Nash was trolling them when he played %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Why does Linkara have all of those Cybermats?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "We all made a mistake when we ate %s at MAGFest."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Kyle's next student film will focus on %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 2,
+    "pick": 3,
+    "value": "The next crossover will have %s and %s review %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "%s and %s are in the worst comic Linkara ever read."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "%s is only on the site because of %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "If you value your life, never mention %s around Oancitizen."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "Arlo P. Arlo's newest weapon combines %s and %s!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "WAIT!  I have an idea!  It involves using %s!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "What does Linkara eat with his chicken strips?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "%s will be the subject of the next TGWTG panel at MAGFest."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "At his next con appearance, Linkara will cosplay as %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "In the newest Cheap Damage, CR looks at the trading card game version of %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "In his most recent Avatar vlog, Doug's favorite thing about the episode was %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "How is Bennett going to creep out Ask That Guy this time? "
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Hey Nash, whatcha playin'?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Hey kids, I'm Nash, and I couldn't make %s up if I tried."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Here There Be %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Hello, I'm a %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Florida's new crazy is about %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Even Kyle thinks %s is pretentious."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "E Rod has a new dance move called %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Birdemic 3: %s"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Being done with My Little Pony, 8-Bit Mickey has moved onto %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "As a way of apologizing for a poorly received episode, E Rod promised to review %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "An intervention was staged for Linkara after %s was discovered in his hat."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "ALL OF %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "After getting snowed in at MAGfest, the reviewers were stuck with %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "The controversy over ad-blocking could be easily solved by %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "The easiest way to counteract a DMCA takedown notice is with %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "On the next WTFIWWY, Nash will give us a brief history of %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "The best Bad Movie Beatdown sketch is where Film Brain ropes Lordhebe into %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Nash's Reviewer Spotlight featured %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "New rule in the RDA Drinking Game:  Every time %s happens, take a shot!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Nash rejected yet another RDA request for %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Nash's recent rant about Microsoft led to %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "MikeJ's next sexual conquest is %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Nash had a long day at work, so tonight he'll stream %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Linkara's Yu-Gi-Oh deck is built up with nothing but %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Luke Mochrie proved he was still part of the site by%s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Leon Thomas almost named his show Renegade %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Linkara was shocked when he found out Insano was secretly %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "IT'S NOT %s!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "It's not nudity if there's %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "What made Dodger ban someone from the RDA chat this week?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "What killed Harvey Finevoice's son?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "What was the first sign that Linkara was turning evil?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "What new upgrade did Nash give Laura?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "What is literally the only thing tastier than a dragon's soul?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "What is hidden in Linkara's hat?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "What is the name of the next new Channel Awesome contributor?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "What is Snowflame's only known weakness?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "What did Doug bring to the set of To Boldly Flee?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "This week, Nash's beer is made with %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "What hot, trendy new dance will feature in Paw's next Dance Spectacular?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "What does Ven have to do now?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "The new site that will overtake TGWTG is %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "The last time Welshy and Film Brain were in a room together, they ended up %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "The theme of this week's WTFIWWY is %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "The newest Rap Libs makes extensive use of the phrase \"%s.\""
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "Putting %s in %s? That doesn't go there!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "In trying to ban %s, Florida accidentally banned %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "If %s got to direct an Uncanny Valley short, it would have featured %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "At ConBravo, %s will be hosting a panel on %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Why doesn't Film Brain have an actual reviewer costume?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "The MAGFest Nerf War took a dark turn when %s was waylaid by %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "For a late night snack, Nash made a sandwich of %s and %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "The next TGWTG porn spoof?  %s with %s!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Who REALLY called Oancitizen to help him snap out of his ennui?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Whose ass did Zodann kick this time?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Why did Nash go to Chicago?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Why doesn't Doug ever attend MAGFest?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "What will Nash try to kill next with his hammer?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "When Arlo The Orc turns into a werewolf, he likes to snack on %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "When interviewing Linkara, be sure to ask him about %s!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "When not reviewing or ruling Haganistan with an iron fist, Hagan's hobby is %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "%s didn't make it onto the first AT4W DVD."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "%s is part of the WTFIWWY wheelhouse."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "%s is the subject of the Critic's newest review."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "%s is the subject of the missing short from The Uncanny Valley."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "%s needs more gay."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "%s will be Linkara's next cosplay."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "%s wound up in this week's top WTFIWWY story."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 2,
+    "pick": 3,
+    "value": "Make a WTFIWWY story."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 2,
+    "pick": 3,
+    "value": " %s  did %s to avoid %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "At MAGFest, %s will host a panel focusing on %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "\"Greetings, dear listeners.  Won't you join %s for %s?\""
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "Sad Panda is actually %s and  %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "I'm going to die watching %s review %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "In a new latest announcement video, %s has announced an appearance at %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "After %s, Phelous regenerated into %s. "
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "%s and %s would make awesome siblings."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "Some fangirls lay awake all night thinking of %s and %s together."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "In my new show, I review %s while dressed like %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "Luke's newest character is %s, the Inner %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "Good evening! I am %s of  %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "%s is the reason that %s picked \"AIDS.\""
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 2,
+    "pick": 3,
+    "value": "Nash's newest made-up curse word is %s-%s-%s! "
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 2,
+    "pick": 3,
+    "value": "Using alchemy, combine %s and %s to make %s! "
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 2,
+    "pick": 3,
+    "value": "Write Linkara's next storyline as a haiku."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 2,
+    "pick": 3,
+    "value": "Nash will build his next contraption with just %s, %s, and %s."
+  }
+]

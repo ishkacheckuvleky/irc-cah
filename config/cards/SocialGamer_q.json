@@ -1,0 +1,58 @@
+[
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "%s is the name of my %s cover band."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 2,
+    "pick": 3,
+    "value": "Who dunnit? %s with %s in %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Alcoholic games of Clue&reg; lead to %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "%s.tumblr.com"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Don't slow down in East Cleveland or %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "%s has the \"mount\" keyword."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "At the last PAX, Paul and Storm had %s thrown at them during \"Opening Band\"."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "Drunken games of Pretend You're Xyzzy lead to %s and %s."
+  }
+]

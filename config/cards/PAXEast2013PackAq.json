@@ -1,0 +1,16 @@
+[
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "You have been waylaid by %s and must defend yourself."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "I have an idea even better than Kickstarter, and it's called %sstarter."
+  }
+]

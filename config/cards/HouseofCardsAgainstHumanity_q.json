@@ -1,0 +1,65 @@
+[
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Our relationship is strictly professional. Let's not complicate things with %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "A wise man said, \"Everything is about sex. Except sex. Sex is about %s.\""
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "Because you enjoyed %s, we thought you'd like %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "Corruption. Betrayal. %s. Coming soon to Netflix, \"House of %s.\""
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "We're not like other news organizations. Here at Slugline, we welcome %s in the office. "
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "I can't believe Netflix is using %s to promote House of Cards."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Cancel all my meetings. We've got a situation with %s that requires my immediate attention."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "I'm not going to lie. I despise %s. There, I said it."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "If you need him to, Remy Danton can pull some strings and get you %s, but it'll cost you."
+  }
+]

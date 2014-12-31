@@ -1,0 +1,16 @@
+[
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Action stations! Action stations! Set condition one throughout the fleet and brace for %s!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "In the final round of this year's Omegathon, Omeganauts must face off in a game of %s."
+  }
+]

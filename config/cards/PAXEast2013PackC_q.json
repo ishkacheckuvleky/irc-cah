@@ -1,0 +1,16 @@
+[
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Press <span class=\"card_number\">&darr;</span><span class=\"card_number\">&darr;</span><span class=\"card_number\">&larr;</span><span class=\"card_number\">&rarr;</span><span class=\"card_number\">B</span> to unleash %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "I don't know exactly how I got the PAX plague, but I suspect it had something to do with %s."
+  }
+]

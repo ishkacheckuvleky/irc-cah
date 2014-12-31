@@ -1,0 +1,254 @@
+[
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 2,
+    "pick": 3,
+    "value": "%s %s Divided By %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "%s <br>~Skeeter The Lurker"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 1,
+    "pick": 2,
+    "value": "%s adds a thread in the Anti-%s group, and everybody loses their fucking minds."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 1,
+    "pick": 2,
+    "value": "%s is the least autistic %s on Fimfiction."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "%s is Best Pony."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 1,
+    "pick": 2,
+    "value": "%s signalled the end of the %s Age of FiMfiction.net."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 1,
+    "pick": 2,
+    "value": "%s posted that they're not working on fics for a while, because %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "%s was a strong stallion."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "%s signalled the end of the Golden Age of FiMfiction.net."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 2,
+    "pick": 3,
+    "value": "A clopfic about %s with %s, and %s is a sexy orphan."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 2,
+    "pick": 3,
+    "value": "%s, %s, and %s in a sexy circlejerk."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "Fallout Equestria is %s and tends to overdramaticize its %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 1,
+    "pick": 2,
+    "value": "An alternate universe where %s is instead %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 2,
+    "pick": 3,
+    "value": "I commissioned a picture of %s violating %s with %s's dick."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Hey, let's cross over %s and MLP! Why the fuck not?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 1,
+    "pick": 2,
+    "value": "I just read a fic where %s was fucking %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "I hope someone writes a fic about %s because I am too fucking lazy to do it myself."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "I swear I'm going to quit the fandom if %s happens."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "I just started the %sverse."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 1,
+    "pick": 2,
+    "value": "The Incredible %s Of A Winning %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "The cardinal sin of FiMFic noobs: %s_ without %s__"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 1,
+    "pick": 2,
+    "value": "The %s Group of %s Excellence."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "The %s Bureau."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 1,
+    "pick": 2,
+    "value": "That fucking idiot %s ragequit the fandom over %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 2,
+    "pick": 3,
+    "value": "Someone should write a clopfic of %s fucking %s, using %s as lubricant."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Short Skirts and %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Remember when %s was on every page?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "RainbowBob's newest clopfic: %s X %s"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Oh, look, %s made a fan group for themselves."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Oh, fuck, someone made a group about %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 1,
+    "pick": 2,
+    "value": "My OTP is %s and %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "My Little Dashie? How about My Little %s?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "My %s Pony"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "knighty's new blogpost is about %s"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "If only people bothered to read Ezn's %s Guide!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "There's a crossover fic about %s and %s in the FB."
+  }
+]

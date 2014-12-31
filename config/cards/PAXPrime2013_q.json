@@ -1,0 +1,51 @@
+[
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "The most controversial game at PAX this year is an 8-bit indie platformer about %s.<span class=\"cardnum\">38 / 44</span>"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "What made Spock cry?<span class=\"cardnum\">39 / 44</span>"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "In the new DLC for Mass Effect, Shepard must save the galaxy from %s.<span class=\"cardnum\">42 / 44</span>"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "No Enforcer wants to manage the panel on %s.<span class=\"cardnum\">44 / 44</span>"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "%s: Achievement unlocked.<span class=\"cardnum\">40 / 44</span>"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "There was a riot at the Gearbox panel when they gave the attendees %s.<span class=\"cardnum\">41 / 44</span>"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "What's the latest bullshit that's troubling this quaint fantasy town?<span class=\"cardnum\">43 / 44</span>"
+  }
+]
