@@ -33,10 +33,10 @@ var config = _.extend(
 
 var cardFiles = {};
 
-config.cardFiles.foreach(deck, i, a) {
-  cardFiles[deck + "_a"] = __dirname + '/../config/cards' + deck + "_a.json";
-  cardFiles[deck + "_q"] = __dirname + '/../config/cards' + deck + "_q.json";
-};
+config.cardFiles.forEach(function(deck, i, a) {
+  cardFiles[deck + "_a"] = __dirname + '/../config/cards/' + deck + "_a.json";
+  cardFiles[deck + "_q"] = __dirname + '/../config/cards/' + deck + "_q.json";
+});
 
 var validator = new JaySchema();
 var schema = {
