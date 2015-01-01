@@ -1,7 +1,7 @@
 {
-    "server":        "openirc.snt.utwente.nl",
-    "nick":          "cah",
-    "setTopic":      true,
+    "server":        "irc.what-network.net",
+    "nick":          "bigblackD",
+    "setTopic":      false,
     "topicBase":     "|| This will be appended to the topic along with the game status.",
     "notifyUsers":   false,
     "connectCommands": [
@@ -19,7 +19,7 @@
         ]
     },
     "clientOptions": {
-        "userName":             "cah",
+        "userName":             "biggestblackest",
         "channels":             ["#cah"],
         "floodProtection":      true,
         "floodProtectionDelay": 1000
@@ -35,6 +35,6 @@
       "TheSecondExpansion",
       "TheThirdExpansion",
       "TheFourthExpansion",
-			"TheFifthExpansion"
+      "TheFifthExpansion"
     ]
 }
