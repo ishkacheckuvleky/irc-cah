@@ -9,8 +9,8 @@ function getPickAndDraw(question) {
 	if(matches) {
 		pick = matches.length;
 	}
-	if(pick == 3) {
-		draw = 2;
+	if(pick > 2) {
+		draw = pick - 1;
 	}
 	return {
 		draw: draw,
