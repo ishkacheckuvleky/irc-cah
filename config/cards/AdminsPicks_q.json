@@ -214,7 +214,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "Alcoholic games of Clue&reg; lead to %s."
+    "value": "Alcoholic games of Clue® lead to %s."
   },
   {
     "type": "Question",
@@ -326,7 +326,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "Dustin Browder demands more %s in StarCraft&reg;."
+    "value": "Dustin Browder demands more %s in StarCraft®."
   },
   {
     "type": "Question",

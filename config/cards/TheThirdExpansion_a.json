@@ -116,7 +116,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "The Quesadilla Explosion Salad&trade; from Chili's&reg;."
+    "value": "The Quesadilla Explosion Salad™ from Chili's®."
   },
   {
     "type": "Answer",
@@ -368,7 +368,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "Drinking ten 5-hour ENERGYs&reg; to get fifty continuous hours of energy."
+    "value": "Drinking ten 5-hour ENERGYs® to get fifty continuous hours of energy."
   },
   {
     "type": "Answer",
@@ -515,7 +515,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "Velcro&trade;."
+    "value": "Velcro™."
   },
   {
     "type": "Answer",

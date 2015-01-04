@@ -32,7 +32,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 2,
-    "value": "%s &amp; %s: Worst mods ever."
+    "value": "%s & %s: Worst mods ever."
   },
   {
     "type": "Question",

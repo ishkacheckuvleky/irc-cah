@@ -102,7 +102,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "What is mo&eacute;?"
+    "value": "What is moé?"
   },
   {
     "type": "Question",
@@ -312,7 +312,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 2,
-    "value": "From the creators of Tiger &amp; Bunny: %s &amp; %s!!"
+    "value": "From the creators of Tiger & Bunny: %s & %s!!"
   },
   {
     "type": "Question",
@@ -557,7 +557,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "The rarest Pok&eacute;mon in my collection is %s."
+    "value": "The rarest Pokémon in my collection is %s."
   },
   {
     "type": "Question",
@@ -795,7 +795,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "Coming to Neon Alley: %s, completely UNCUT &amp; UNCENSORED."
+    "value": "Coming to Neon Alley: %s, completely UNCUT & UNCENSORED."
   },
   {
     "type": "Question",
@@ -844,7 +844,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "%s. So kawaii!! &lt;3 &lt;3"
+    "value": "%s. So kawaii!! <3 <3"
   },
   {
     "type": "Question",

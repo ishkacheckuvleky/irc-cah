@@ -74,7 +74,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "Viagra&reg;."
+    "value": "Viagra®."
   },
   {
     "type": "Answer",
@@ -970,7 +970,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "Twinkies&reg;."
+    "value": "Twinkies®."
   },
   {
     "type": "Answer",
@@ -1068,7 +1068,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "Five-Dollar Footlongs&trade;."
+    "value": "Five-Dollar Footlongs™."
   },
   {
     "type": "Answer",
@@ -1201,7 +1201,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "The Tempur-Pedic&reg; Swedish Sleep System&trade;."
+    "value": "The Tempur-Pedic® Swedish Sleep System™."
   },
   {
     "type": "Answer",
@@ -1432,7 +1432,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "Fancy Feast&reg;."
+    "value": "Fancy Feast®."
   },
   {
     "type": "Answer",
@@ -1635,7 +1635,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "Hot Pockets&reg;."
+    "value": "Hot Pockets®."
   },
   {
     "type": "Answer",
@@ -1740,7 +1740,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "A neglected Tamagotchi&trade;."
+    "value": "A neglected Tamagotchi™."
   },
   {
     "type": "Answer",
@@ -1894,7 +1894,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "The &Uuml;bermensch."
+    "value": "The Übermensch."
   },
   {
     "type": "Answer",
@@ -1964,7 +1964,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "Domino's&trade; Oreo&trade; Dessert Pizza."
+    "value": "Domino's™ Oreo Dessert Pizza."
   },
   {
     "type": "Answer",
@@ -2055,7 +2055,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "Adderall&trade;."
+    "value": "Adderall™."
   },
   {
     "type": "Answer",
@@ -2300,7 +2300,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "Sobbing into a Hungry-Man&reg; Frozen Dinner."
+    "value": "Sobbing into a Hungry-Man® Frozen Dinner."
   },
   {
     "type": "Answer",
@@ -2608,14 +2608,14 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "Ring Pops&trade;."
+    "value": "Ring Pops™."
   },
   {
     "type": "Answer",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "GoGurt&reg;."
+    "value": "GoGurt®."
   },
   {
     "type": "Answer",
@@ -2783,7 +2783,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "A Super Soaker&trade; full of cat pee."
+    "value": "A Super Soaker™ full of cat pee."
   },
   {
     "type": "Answer",
@@ -2909,7 +2909,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "Lunchables&trade;."
+    "value": "Lunchables™."
   },
   {
     "type": "Answer",
@@ -3133,7 +3133,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "The Make-A-Wish&reg; Foundation."
+    "value": "The Make-A-Wish® Foundation."
   },
   {
     "type": "Answer",

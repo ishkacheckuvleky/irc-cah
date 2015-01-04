@@ -81,7 +81,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "A Fleshlite&trade;."
+    "value": "A Fleshlite™."
   },
   {
     "type": "Answer",
@@ -529,7 +529,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "Pow-Pow-PowerWheeels&reg;!"
+    "value": "Pow-Pow-PowerWheeels®!"
   },
   {
     "type": "Answer",

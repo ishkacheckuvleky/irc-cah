@@ -536,7 +536,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "&gt;preferring 3D women over %s"
+    "value": ">preferring 3D women over %s"
   },
   {
     "type": "Question",
@@ -585,7 +585,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "&gt;mfw %s."
+    "value": ">mfw %s."
   },
   {
     "type": "Question",
@@ -613,7 +613,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "D&amp;D: 6th edition will feature %s as a main race!"
+    "value": "D&D: 6th edition will feature %s as a main race!"
   },
   {
     "type": "Question",

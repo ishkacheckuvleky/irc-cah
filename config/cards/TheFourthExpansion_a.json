@@ -88,7 +88,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "Whatever a McRib&reg; is made of."
+    "value": "Whatever a McRib® is made of."
   },
   {
     "type": "Answer",
@@ -396,7 +396,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "Stuff a child's face with Fun Dip&reg; until he starts having fun."
+    "value": "Stuff a child's face with Fun Dip® until he starts having fun."
   },
   {
     "type": "Answer",

@@ -144,7 +144,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "What's the next Happy Meal&reg; toy?"
+    "value": "What's the next Happy Meal® toy?"
   },
   {
     "type": "Question",
@@ -557,7 +557,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 2,
-    "value": "Lifetime&reg; presents %s, the story of %s."
+    "value": "Lifetime® presents %s, the story of %s."
   },
   {
     "type": "Question",
