@@ -1404,7 +1404,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "Michelle Ru-<br>er, I mean... \"Sophie Roberts.\""
+    "value": "Michelle Ru- er, I mean... \"Sophie Roberts.\""
   },
   {
     "type": "Answer",
@@ -1530,7 +1530,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "KING!!! KING!!! KING GAINER!!!<br><i>*does the Monkey*</i>"
+    "value": "KING!!! KING!!! KING GAINER!!! <i>*does the Monkey*</i>"
   },
   {
     "type": "Answer",
@@ -1824,7 +1824,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "\"INUYASHA!!\"<br>\"KAGOME!!\""
+    "value": "\"INUYASHA!!\" \"KAGOME!!\""
   },
   {
     "type": "Answer",
@@ -1838,7 +1838,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "MUNGLE!!<br><i>*shakes fist*</i>"
+    "value": "MUNGLE!! <i>*shakes fist*</i>"
   },
   {
     "type": "Answer",
@@ -2251,7 +2251,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "Ice cold water<br>(and it's only a dollar)."
+    "value": "Ice cold water (and it's only a dollar)."
   },
   {
     "type": "Answer",

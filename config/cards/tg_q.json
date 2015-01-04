@@ -564,7 +564,7 @@
     "keep": "Yes",
     "draw": 2,
     "pick": 3,
-    "value": "What I made: %s.<br>What the DM saw: %s.<br>What I played: %s"
+    "value": "What I made: %s. What the DM saw: %s. What I played: %s"
   },
   {
     "type": "Question",

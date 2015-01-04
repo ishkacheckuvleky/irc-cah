@@ -25,7 +25,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "Here is the church<br>Here is the steeple<br>Open the doors<br>And there is %s."
+    "value": "Here is the church Here is the steeple Open the doors And there is %s."
   },
   {
     "type": "Question",
@@ -214,7 +214,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "Dear Abby,<br><br>I'm having some trouble with %s and would like your advice."
+    "value": "Dear Abby, I'm having some trouble with %s and would like your advice."
   },
   {
     "type": "Question",
@@ -263,7 +263,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "War!<br><br>What is it good for?"
+    "value": "War! What is it good for?"
   },
   {
     "type": "Question",

@@ -221,7 +221,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "War!<br><br>What is it good for?"
+    "value": "War! What is it good for?"
   },
   {
     "type": "Question",

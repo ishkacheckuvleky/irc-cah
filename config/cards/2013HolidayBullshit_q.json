@@ -39,7 +39,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "GREETINGS HUMANS<br><br>I AM %s BOT<br><br>EXECUTING PROGRAM"
+    "value": "GREETINGS HUMANS I AM %s BOT EXECUTING PROGRAM"
   },
   {
     "type": "Question",
@@ -53,13 +53,13 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 2,
-    "value": "Here's what you can expect for the new year.<br>Out: %s.<br>In: %s."
+    "value": "Here's what you can expect for the new year. Out: %s. In: %s."
   },
   {
     "type": "Question",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "Revealed:<br>Why He Really Resigned!<br>Pope Benedict's Secret Struggle with %s!"
+    "value": "Revealed: Why He Really Resigned! Pope Benedict's Secret Struggle with %s!"
   }
 ]

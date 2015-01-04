@@ -200,7 +200,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "War!<br><br>What is it good for?"
+    "value": "War! What is it good for?"
   },
   {
     "type": "Question",
@@ -564,7 +564,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "Dear Abby,<br><br>I'm having some trouble with %s and would like your advice."
+    "value": "Dear Abby, I'm having some trouble with %s and would like your advice."
   },
   {
     "type": "Question",
