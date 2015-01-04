@@ -935,7 +935,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "THE MAN-POLE OF <i>DOOOOOOOOOM!!!</i>"
+    "value": "THE MAN-POLE OF *DOOOOOOOOOM!!!*"
   },
   {
     "type": "Answer",
@@ -1229,7 +1229,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "<i>CHIIIIIIIIN.</i>"
+    "value": "*CHIIIIIIIIN.*"
   },
   {
     "type": "Answer",
@@ -1530,7 +1530,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "KING!!! KING!!! KING GAINER!!! <i>*does the Monkey*</i>"
+    "value": "KING!!! KING!!! KING GAINER!!! *does the Monkey*"
   },
   {
     "type": "Answer",
@@ -1838,7 +1838,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "MUNGLE!! <i>*shakes fist*</i>"
+    "value": "MUNGLE!! *shakes fist*"
   },
   {
     "type": "Answer",

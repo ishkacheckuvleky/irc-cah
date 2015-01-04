@@ -116,7 +116,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "2 AM in the city that never sleeps. The door swings open and <i>she</i> walks in, legs up to here. Something in her eyes tells me she's looking for %s."
+    "value": "2 AM in the city that never sleeps. The door swings open and *she* walks in, legs up to here. Something in her eyes tells me she's looking for %s."
   },
   {
     "type": "Question",
@@ -137,7 +137,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "Do <i>not</i> fuck with me! I am literally %s right now."
+    "value": "Do *not* fuck with me! I am literally %s right now."
   },
   {
     "type": "Question",

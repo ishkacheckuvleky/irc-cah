@@ -599,7 +599,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "Chicks. Dig. %s. <i>Nice.</i>"
+    "value": "Chicks. Dig. %s. *Nice.*"
   },
   {
     "type": "Question",
@@ -732,7 +732,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "My %s is the %s that will pierce the heavens!!  <i>*same white card used for both blanks*</i>"
+    "value": "My %s is the %s that will pierce the heavens!!  **same white card used for both blanks**"
   },
   {
     "type": "Question",
