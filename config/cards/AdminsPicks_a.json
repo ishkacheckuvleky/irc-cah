@@ -277,7 +277,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "The sound a single ThunderStix&reg; makes."
+    "value": "The sound a single ThunderStix® makes."
   },
   {
     "type": "Answer",
@@ -858,7 +858,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "A Fleshlite&trade;."
+    "value": "A Fleshlite™."
   },
   {
     "type": "Answer",

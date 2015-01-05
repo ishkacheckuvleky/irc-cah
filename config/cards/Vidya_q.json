@@ -25,7 +25,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "&gt;walk into gamestop<br>&gt;see %s<br>&gt;walk out"
+    "value": ">walk into gamestop >see %s >walk out"
   },
   {
     "type": "Question",
@@ -144,7 +144,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "Ironic %s is still %s.<br><br>(same in both blanks)"
+    "value": "Ironic %s is still %s. (same in both blanks)"
   },
   {
     "type": "Question",
@@ -158,7 +158,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 2,
-    "value": "&gt;%s<br>&gt;%s<br>&gt;2011<br>&gt;ISHYGDDT"
+    "value": ">%s >%s >2011 >ISHYGDDT"
   },
   {
     "type": "Question",
@@ -438,7 +438,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "&gt;implying you aren't %s"
+    "value": ">implying you aren't %s"
   },
   {
     "type": "Question",
@@ -739,7 +739,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "&gt;tfw when %s."
+    "value": ">tfw when %s."
   },
   {
     "type": "Question",

@@ -102,7 +102,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "Gav &amp; Bob"
+    "value": "Gav & Bob"
   },
   {
     "type": "Answer",
@@ -1838,7 +1838,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "&gt;BLAM"
+    "value": ">BLAM"
   },
   {
     "type": "Answer",

@@ -60,7 +60,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "Viagra&reg;."
+    "value": "Viagra®."
   },
   {
     "type": "Answer",
@@ -942,7 +942,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "Five-Dollar Footlongs&trade;."
+    "value": "Five-Dollar Footlongs™."
   },
   {
     "type": "Answer",
@@ -1075,7 +1075,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "The Tempur-Pedic&reg; Swedish Sleep System&trade;."
+    "value": "The Tempur-Pedic® Swedish Sleep System™."
   },
   {
     "type": "Answer",
@@ -1278,7 +1278,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "Fancy Feast&reg;."
+    "value": "Fancy Feast®."
   },
   {
     "type": "Answer",
@@ -1474,7 +1474,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "Hot Pockets&reg;."
+    "value": "Hot Pockets®."
   },
   {
     "type": "Answer",
@@ -1698,7 +1698,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "The &Uuml;bermensch."
+    "value": "The Übermensch."
   },
   {
     "type": "Answer",
@@ -1768,7 +1768,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "Domino's&trade; Oreo&trade; Dessert Pizza."
+    "value": "Domino's™ Oreo Dessert Pizza."
   },
   {
     "type": "Answer",
@@ -1845,7 +1845,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "Adderall&trade;."
+    "value": "Adderall™."
   },
   {
     "type": "Answer",
@@ -2307,7 +2307,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "GoGurt&reg;."
+    "value": "GoGurt®."
   },
   {
     "type": "Answer",
@@ -2461,7 +2461,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "A Super Soaker&trade; full of cat pee."
+    "value": "A Super Soaker™ full of cat pee."
   },
   {
     "type": "Answer",
@@ -2587,7 +2587,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "Lunchables&trade;."
+    "value": "Lunchables™."
   },
   {
     "type": "Answer",
@@ -2839,7 +2839,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "A Bop It&trade;."
+    "value": "A Bop It™."
   },
   {
     "type": "Answer",
@@ -2930,7 +2930,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "The Make-A-Wish&reg; Foundation."
+    "value": "The Make-A-Wish® Foundation."
   },
   {
     "type": "Answer",
@@ -3042,7 +3042,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "The Donald Trump Seal of Approval&trade;."
+    "value": "The Donald Trump Seal of Approval™."
   },
   {
     "type": "Answer",
@@ -3175,14 +3175,14 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "Switching to Geico&reg;."
+    "value": "Switching to Geico®."
   },
   {
     "type": "Answer",
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "Euphoria&trade; by Calvin Klein."
+    "value": "Euphoria™ by Calvin Klein."
   },
   {
     "type": "Answer",
@@ -3210,6 +3210,6 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "Home video of Oprah sobbing into a Lean Cuisine&reg;."
+    "value": "Home video of Oprah sobbing into a Lean Cuisine®."
   }
 ]

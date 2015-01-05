@@ -32,7 +32,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "Eating 120 White Castle burgers&reg;."
+    "value": "Eating 120 White Castle burgers®."
   },
   {
     "type": "Answer",
@@ -102,7 +102,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "Quiznos&reg;."
+    "value": "Quiznos®."
   },
   {
     "type": "Answer",
@@ -200,7 +200,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "Rich, chocolatey Ovaltine&reg;."
+    "value": "Rich, chocolatey Ovaltine®."
   },
   {
     "type": "Answer",
@@ -648,7 +648,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "Mountain Dew&reg; Baja Blast."
+    "value": "Mountain Dew® Baja Blast."
   },
   {
     "type": "Answer",
@@ -676,7 +676,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "Apples to Apples&reg;."
+    "value": "Apples to Apples®."
   },
   {
     "type": "Answer",
@@ -704,7 +704,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "Poorly written Star Wars&reg; fan fiction."
+    "value": "Poorly written Star Wars® fan fiction."
   },
   {
     "type": "Answer",
@@ -746,7 +746,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "The shitty remains of Taco Bell&reg;."
+    "value": "The shitty remains of Taco Bell®."
   },
   {
     "type": "Answer",

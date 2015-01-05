@@ -879,7 +879,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "Crystal Pepsi&reg;."
+    "value": "Crystal Pepsi®."
   },
   {
     "type": "Answer",
@@ -907,7 +907,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "A Crystal Pepsi&reg;-flavored enema."
+    "value": "A Crystal Pepsi®-flavored enema."
   },
   {
     "type": "Answer",

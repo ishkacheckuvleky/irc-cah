@@ -11,7 +11,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "Dear Leader Kim Jong-un,<br/>our village praises your infinite wisdom with a humble offering of %s."
+    "value": "Dear Leader Kim Jong-un, our village praises your infinite wisdom with a humble offering of %s."
   },
   {
     "type": "Question",
@@ -25,7 +25,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "She's up all night for good fun.<br/>I'm up all night for %s."
+    "value": "She's up all night for good fun. I'm up all night for %s."
   },
   {
     "type": "Question",
@@ -74,7 +74,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 2,
-    "value": "In the beginning, there was %s.<br/>And the Lord said, \"Let there be %s.\""
+    "value": "In the beginning, there was %s. And the Lord said, \"Let there be %s.\""
   },
   {
     "type": "Question",
@@ -95,7 +95,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "You've seen the bearded lady!<br/>You've seen the ring of fire!<br/>Now, ladies and gentlemen, feast your eyes upon %s!"
+    "value": "You've seen the bearded lady! You've seen the ring of fire! Now, ladies and gentlemen, feast your eyes upon %s!"
   },
   {
     "type": "Question",
@@ -116,7 +116,7 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "2 AM in the city that never sleeps. The door swings open and <i>she</i> walks in, legs up to here. Something in her eyes tells me she's looking for %s."
+    "value": "2 AM in the city that never sleeps. The door swings open and *she* walks in, legs up to here. Something in her eyes tells me she's looking for %s."
   },
   {
     "type": "Question",
@@ -137,14 +137,14 @@
     "keep": "Yes",
     "draw": 0,
     "pick": 1,
-    "value": "Do <i>not</i> fuck with me! I am literally %s right now."
+    "value": "Do *not* fuck with me! I am literally %s right now."
   },
   {
     "type": "Question",
     "keep": "Yes",
     "draw": 0,
     "pick": 2,
-    "value": "Adventure.<br/>Romance.<br/>%s.<br/><br/>From Paramount Pictures, \"%s.\""
+    "value": "Adventure. Romance. %s. From Paramount Pictures, \"%s.\""
   },
   {
     "type": "Question",
