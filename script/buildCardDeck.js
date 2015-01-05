@@ -49,6 +49,8 @@ function main() {
 			buffer += chunk;
 			var lines;
 			if(lines = buffer.split('\n')) {
+				var lastNewline = buffer.lastIndexOf('\n');
+				buffer = buffer.substr(lastNewline + 1);
 				lines.forEach(function(line, i, a) {
 					if(line == '') {
 						return;
