@@ -10,15 +10,16 @@
     "test": "node node_modules/grunt-cli/bin/grunt test"
   },
   "dependencies": {
-    "underscore": "latest",
     "grunt": "latest",
     "grunt-cli": "latest",
-    "irc": "~0.3.6",
-    "path": "~0.4.9",
-    "irc-colors": "~1.0.3",
     "grunt-nodemon": "~0.2.1",
+    "irc": "~0.3.6",
+    "irc-colors": "~1.0.3",
+    "jayschema": "~0.2.7",
+    "minimist": "^1.1.0",
     "nodemon": "~1.0.17",
-    "jayschema": "~0.2.7"
+    "path": "~0.4.9",
+    "underscore": "latest"
   },
   "devDependencies": {
     "grunt-contrib-watch": "latest",
