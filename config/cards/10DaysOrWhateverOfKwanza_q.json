@@ -1,0 +1,51 @@
+[
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Behold the Four Horsemen of the Apocalypse! War, Famine, Death, and %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "A curse upon thee! Many years from now, just when you think you're safe, %s shall turn into %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 2,
+    "value": "Today on Buzzfeed: 10 pictures of %s That Look Like %s!"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Why am I so tired?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Here lies ish, 1984-2015, devoted friend, lover of %s."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Dear Mom and Dad, Camp is fun. I like capture the flag. Yesterday, one of the older kids taught me about %s. I love you, Casey."
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Honey, Mommy and Daddy love you very much. But apparently Mommy loves %s more than she loves Daddy."
+  }
+]
