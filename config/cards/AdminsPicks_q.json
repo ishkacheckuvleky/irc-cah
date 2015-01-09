@@ -866,5 +866,12 @@
     "draw": 0,
     "pick": 1,
     "value": "If you could fuck anyone in the world, who would you choose?"
+  },
+  {
+    "type": "Question",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "In a final act, a disgruntled support employee %s before leaving. "
   }
 ]
