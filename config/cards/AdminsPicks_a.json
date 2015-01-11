@@ -754,5 +754,12 @@
     "draw": 0,
     "pick": 1,
     "value": "A testicle examination."
+  },
+  {
+    "type": "Answer",
+    "keep": "Yes",
+    "draw": 0,
+    "pick": 1,
+    "value": "Barbara Bush's grey bush."
   }
 ]
